@@ -44,7 +44,7 @@ export default function Home() {
         <div className="section-mark mono">D / 04</div><div className="section-content"><h2>Find me<br />in the wild.</h2><div className="external-links"><a href="https://gitlab.com/lxx9" target="_blank" rel="noreferrer"><span>GitLab</span><strong>@lxx9</strong><b>↗</b></a><a href="https://x.com/sda4_" target="_blank" rel="noreferrer"><span>X / Twitter</span><strong>@sda4_</strong><b>↗</b></a></div></div>
       </section>
 
-      <section className="contact shell" id="contact"><div><p className="kicker mono">Have a project in mind?</p><h2>Let&apos;s make<br /><em>something solid.</em></h2></div><div className="contact-action"><p>Tell me what you&apos;re building, where it&apos;s stuck, or what you want to make clearer.</p><a className="button" href="mailto:hello@lxx9.dev">Email me <span>↗</span></a></div></section>
+      <section className="contact shell" id="contact"><div><p className="kicker mono">Have a project in mind?</p><h2>Let&apos;s make<br /><em>something solid.</em></h2></div><div className="contact-action"><p>Tell me what you&apos;re building, where it&apos;s stuck, or what you want to make clearer.</p><a className="button" href="mailto:sda4@tuta.io">Email me <span>↗</span></a></div></section>
       <footer className="footer shell"><span>© {new Date().getFullYear()} lxx9</span><span className="mono">Built with intention</span><a href="#top">Back to top ↑</a></footer>
     </main>
   );
